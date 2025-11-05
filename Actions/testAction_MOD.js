@@ -1,7 +1,7 @@
 // Actions/testAction_MOD.js
 module.exports = {
   data: { name: "Test Action Mod" },
-  mod: "1.2",
+  mod: "1.3",
   description: "Тестовое действие для проверки мод-менеджера. Это действие можно использовать для тестирования функциональности модов.",
   creator: "LikRus",
   category: "Actions",
